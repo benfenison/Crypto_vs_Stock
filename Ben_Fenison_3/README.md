@@ -24,6 +24,8 @@ I gathered around 1,000 posts from both subreddits and from these posts I extrac
 
 Created a DataFrame for my Title, Selftext, and Subreddit 
 
+Additionally I created another column from my subreddit with 0 representing my cryptocurrency market and 1 representing my stock market in order to process my target variable as y
+
 
 
 ## Models:
