@@ -34,6 +34,6 @@ I also conducted a pipeline with Random Forest & TFIDF that produced a 100% accu
 
 
 
-## Conclusion:
+## Executive Summary:
 
-My best model for subreddit prediction was my logistic regression and suprisingly, the top words that both subreddits had in common were neither about stock market of cryptocurrencies, So I cannot fully come to a conclusion but from what I saw, I can assume that People who invest in Stock Market do not have a high probabiity of talking about investment opportunities in CryptoCurrency Markets, & Visa Versa.
+My logistic model was the better model for my data with the better testing score & was not as overfit as my Random Forest Model. The top words that both subreddits had in common were neither about stock market of cryptocurrencies. I cannot fully come to a conclusion from my analysis, but I can assume that People who invest in Stock Market do not have a high probabiity of talking about investment opportunities in CryptoCurrency Markets, & Visca Versa. 
